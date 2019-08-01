@@ -6,8 +6,8 @@
   }
 
   .row {
-    height: calc(100% / 8);
-    display: flex;
+    /* height: calc(100% / 8); */
+    display: flex 1;
   }
 
 
