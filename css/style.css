@@ -1,5 +1,5 @@
 :placeholder-shown#board {
-    background-color: tan;
+    background-color: rgb(152, 210, 140);
     width: 800px;
     height: 800px;
   }
@@ -10,8 +10,8 @@
 
 
   .space {
-    widows: 100px;
-    height: 100px;
+    width: 12.5%;
+    height: 12.5%;
   }
 
 
