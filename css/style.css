@@ -1,5 +1,27 @@
-#board {
+:placeholder-shown#board {
     background-color: tan;
-    width: 98vw;
-    height: 98vw;
+    width: 800px;
+    height: 800px;
   }
+
+  .row {
+    height: 100px;
+  }
+
+
+  .space {
+    widows: 100px;
+    height: 100px;
+  }
+
+
+  .red {
+    background-color: red;
+    
+  }
+
+
+  .black {
+    background-color: black;
+  }
+
