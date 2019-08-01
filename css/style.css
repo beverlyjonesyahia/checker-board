@@ -2,17 +2,17 @@
     background-color: green;
     width: 90vw;
     height: 90vw;
-    display: flex;
+    
   }
 
   .row {
-    height: 100px;
+    height: calc(100% / 8);
   }
 
 
   .space {
-    width: 100px;
-    height: 100px;
+    width: calc(100% / 8);
+    height: calc(100% / 8);
   }
 
 
