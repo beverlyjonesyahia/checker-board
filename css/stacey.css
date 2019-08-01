@@ -1,0 +1,30 @@
+#board {
+    background-color: tan;
+    width: 98vw;
+    height: 98vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .row {
+    height: 12vw;
+    width: 98vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .space {
+    height: 100%;
+    width: 12vw;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
