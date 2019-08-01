@@ -1,7 +1,7 @@
-:placeholder-shown#board {
+#board {
     background-color: green;
-    width: 98vw;
-    height: 98vw;
+    width: 800px;
+    height: 800px;
   }
 
   .row {
