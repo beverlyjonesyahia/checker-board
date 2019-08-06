@@ -4,15 +4,19 @@
     height: 800px;
     display: flex;
     flex-direction: column;
+    border: 15px solid tan;
+    justify-content: space-between;
   }
   
   .row {
     display: flex;
+    justify-content: space-between;
     flex: 1;
   }
   
   .space {
     flex: 1;
+    
   }
   
   .red {
